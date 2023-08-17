@@ -1,0 +1,30 @@
+/* body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+} */
+
+body {
+  margin: 0;
+  font-family: 'Arial', sans-serif; /* Change font family */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #f0f0f0; /* Add background color */
+}
+
+/* Code styles */
+code {
+  font-family: 'Courier New', monospace; /* Change font family */
+  background-color: #f5f5f5; /* Add background color */
+  padding: 0.2em 0.4em; /* Add padding */
+  border: 1px solid #ccc; /* Add border */
+  border-radius: 3px; /* Add border radius */
+}
